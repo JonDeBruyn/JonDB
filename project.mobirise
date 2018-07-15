@@ -57,13 +57,15 @@
               "font-size": "20px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#f7da64"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#f7da64"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#f7da64",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -84,7 +86,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#f7da64",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -108,8 +110,12 @@
             "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#f7da64",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -282,8 +288,12 @@
             "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#f7da64",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -631,8 +641,12 @@
             "transparent": false,
             "bgColor": "#000000",
             "fontSize": "0.9",
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#f7da64",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
