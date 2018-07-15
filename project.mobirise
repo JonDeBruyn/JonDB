@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.4",
     "versionPublish": "4.8.1",
     "name": "Nieuw ",
@@ -189,7 +189,7 @@
             "paddingBottom": "5",
             "bgColor": "#b9b9b9"
           },
-          "text": "<p><br></p><p>Het werk bevindt zich op de grens tussen fictie en realiteit. De afbeeldingen verhouden zich vaak tot aspecten die spelen in de maatschappij, zoals groei, consumptie en functionaliteit. Mede door het afgebeelde, uiterlijke kenmerken en een bepaalde sfeer, wordt gepoogd een standpunt duidelijk te maken en open te stellen voor discussie.</p>",
+          "text": "<p><br></p><p>Het werk bevindt zich op de grens tussen fictie en realiteit. De afbeeldingen verhouden zich vaak tot aspecten die een zeker rol hebben in de huidige maatschappij, zoals groei, consumptie en functionaliteit. Mede door het afgebeelde, uiterlijke kenmerken en een bepaalde sfeer, wordt gepoogd een standpunt duidelijk te maken en open te stellen voor discussie.</p>",
           "_tags": [
             "Thema"
           ],
