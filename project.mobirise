@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.4",
     "versionPublish": "4.8.1",
     "name": "Nieuw ",
@@ -57,13 +57,13 @@
               "font-size": "20px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -84,7 +84,7 @@
               "background": "#000000"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {

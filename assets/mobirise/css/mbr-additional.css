@@ -429,15 +429,15 @@ h6,
   font-size: 20px;
 }
 #index-ext_menu-0 .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #index-ext_menu-0 .close-icon::before,
 #index-ext_menu-0 .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #index-ext_menu-0 .link,
 #index-ext_menu-0 .dropdown-item {
-  color: #000000;
+  color: #ffffff;
 }
 #index-ext_menu-0 .link {
   font-size: 0.9rem;
@@ -469,7 +469,7 @@ h6,
   background: #000000;
 }
 #index-ext_menu-0 .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #index-ext_menu-0 .bg-color.transparent.opened .link {
